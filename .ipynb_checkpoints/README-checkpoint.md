@@ -71,7 +71,7 @@ Calculated Pearson correlation coefficients.
 Data Visualization: using choropleth maps, bar charts, scatter plots with regression lines, correlation heatmap and comparative postcode maps.
 
 
-Technologies and libraries used:
+Technologies and libraries
 - Python
 - Pandas
 - GeoPandas
@@ -82,7 +82,7 @@ Technologies and libraries used:
 
 ---
 
-## Future improvements could include:
+## Future improvements
 
 Incorporating additional amenity categories (education, transportation, culture).
 Including socioeconomic variables such as income and population density.
