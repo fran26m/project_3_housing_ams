@@ -95,7 +95,7 @@ Extending the analysis to other Dutch cities for comparison.
 
 ## Project management
 
-Organized using [Trello Kanban Board Board:](https://trello.com/b/nOq6BNLy/my-trello-board)
+Organized using [Trello Kanban Board Board](https://trello.com/b/nOq6BNLy/my-trello-board)
 
 ---
 
